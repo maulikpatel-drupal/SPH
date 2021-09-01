@@ -1,0 +1,12 @@
+.views-col img {
+    width: 60%;
+    height: 50%;
+}
+.image_left {
+    float: left;
+    margin-right: 5px;
+}   
+.description_right {
+    text-align: center;
+    text-rendering: auto;
+}
